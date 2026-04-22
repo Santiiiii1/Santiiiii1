@@ -9,13 +9,13 @@
 ### Building ambitious ideas with code, AI, security and vision
 
 <p>
-  <a href="https://github.com/TU-USUARIO">
+  <a href="https://github.com/Santiiiii1">
     <img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/santino-vivas-54a828402">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TUEMAIL@EJEMPLO.COM">
+  <a href="mailto:santinocontacto1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -78,12 +78,6 @@ Right now, I’m focused on:
 > I’m here to build things with real potential.
 
 ---
-
-## Contact
-
-- GitHub: [@TU-USUARIO](https://github.com/TU-USUARIO)
-- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN)
-- Email: TUEMAIL@EJEMPLO.COM
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/ca/92/06/ca92068e40ef52cadf49ea1d0a98bf6c.gif" alt="Galaxy Footer" width="100%" />
