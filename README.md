@@ -1,16 +1,90 @@
 ## Hi there 👋
 
-<!--
-**Santiiiii1/Santiiiii1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://i.pinimg.com/originals/ca/92/06/ca92068e40ef52cadf49ea1d0a98bf6c.gif" alt="Galaxy Banner" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Santino Vivas
+
+### Building ambitious ideas with code, AI, security and vision
+
+<p>
+  <a href="https://github.com/TU-USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TUEMAIL@EJEMPLO.COM">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## Who I Am
+
+I’m a programming student from Argentina focused on building, learning, and thinking big.
+
+My interests go beyond simply writing code.  
+I’m drawn to projects at the intersection of:
+
+- software
+- artificial intelligence
+- security
+- product design
+- long-term vision
+
+I want to create technology that is powerful, useful, and capable of making a real difference.
+
+---
+
+## Current Direction
+
+Right now, I’m focused on:
+
+- becoming stronger in full stack development
+- building a serious portfolio
+- exploring AI-driven workflows
+- learning from real-world technical challenges
+- developing ideas with startup-level ambition
+
+---
+
+## Areas of Interest
+
+- Full Stack Development
+- AI & Automation
+- Cybersecurity
+- Product Building
+- Systems Thinking
+- Digital Identity, Privacy & Scalable Platforms
+
+---
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,nodejs,react,vscode" />
+</p>
+
+---
+
+## Mindset
+
+> I’m not here just to learn tools.  
+> I’m here to build things with real potential.
+
+---
+
+## Contact
+
+- GitHub: [@TU-USUARIO](https://github.com/TU-USUARIO)
+- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN)
+- Email: TUEMAIL@EJEMPLO.COM
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/ca/92/06/ca92068e40ef52cadf49ea1d0a98bf6c.gif" alt="Galaxy Footer" width="100%" />
+</div>
