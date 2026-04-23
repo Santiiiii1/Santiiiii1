@@ -72,13 +72,6 @@ Right now, I’m focused on:
 
 ---
 
-## Mindset
-
-> I’m not here just to learn tools.  
-> I’m here to build things with real potential.
-
----
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/ca/92/06/ca92068e40ef52cadf49ea1d0a98bf6c.gif" alt="Galaxy Footer" width="100%" />
 </div>
